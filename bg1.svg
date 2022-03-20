@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1536" height="732" preserveAspectRatio="xMidYMid" viewBox="0 0 1536 732" style="z-index:1;margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgb(255, 255, 255);animation-play-state:paused" ><g transform="translate(768,366) scale(1,1) translate(-768,-366)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><style type="text/css" style="animation-play-state:paused" >@keyframes ld-speed-dash {
+    0% { transform: translate(0,0); }
+    50% { transform: translate(384px,0); }
+    100% { transform: translate(0,0); }
+  }
+  .ld.ld-speed-dash {
+    animation: ld-speed-dash 0.5s linear infinite;
+  }</style>
+
+  
+<g transform="translate(768,366)" style="transform:matrix(1, 0, 0, 1, 768, 366);animation-play-state:paused" ><g style="animation-play-state:paused" ><g style="transform:matrix(0.865509, 0.500893, -0.500893, 0.865509, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M351.7825664528028 0 L3207.521503256594 25.600329428754872L3207.521503256594 -25.600329428754872z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 161.325, 0);animation-play-state:paused;animation-delay:-0.105029s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.998179, -0.0603259, 0.0603259, -0.998179, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M221.92246279458328 0 L3290.9938640675036 26.253038452725974L3290.9938640675036 -26.253038452725974z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 130.355, 0);animation-play-state:paused;animation-delay:-0.0848663s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.832659, -0.553785, 0.553785, -0.832659, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M233.7706912687712 0 L3036.687132275719 19.06405141977543L3036.687132275719 -19.06405141977543z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 323.773, 0);animation-play-state:paused;animation-delay:-1.28921s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.9901, 0.140363, -0.140363, -0.9901, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M443.3647805349827 0 L3499.4457411525946 14.098638867148946L3499.4457411525946 -14.098638867148946z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 205.763, 0);animation-play-state:paused;animation-delay:-1.36604s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.958559, -0.284895, 0.284895, -0.958559, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M335.5776941292201 0 L3340.9400150280894 13.314176168929235L3340.9400150280894 -13.314176168929235z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 95.2715, 0);animation-play-state:paused;animation-delay:-0.0620257s" ></path>
+
+/></g>
+<g style="transform:matrix(0.953998, 0.299814, -0.299814, 0.953998, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M427.3986626265436 0 L3425.4270790478386 11.861934580712482L3425.4270790478386 -11.861934580712482z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 39.4445, 0);animation-play-state:paused;animation-delay:-0.97432s" ></path>
+
+/></g>
+<g style="transform:matrix(0.232863, -0.97251, 0.97251, 0.232863, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M124.87746892887589 0 L1963.3214004479892 21.71894895320981L1963.3214004479892 -21.71894895320981z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 200.494, 0);animation-play-state:paused;animation-delay:-1.63053s" ></path>
+
+/></g>
+<g style="transform:matrix(0.926986, -0.375096, 0.375096, 0.926986, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M385.7091542551092 0 L3340.3022801355546 27.668695117427617L3340.3022801355546 -27.668695117427617z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 161.787, 0);animation-play-state:paused;animation-delay:-1.10533s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.217347, -0.976094, 0.976094, -0.217347, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M143.09471807720342 0 L1956.589449089419 23.089478848518233L1956.589449089419 -23.089478848518233z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 319.427, 0);animation-play-state:paused;animation-delay:-1.29204s" ></path>
+
+/></g>
+<g style="transform:matrix(0.291454, -0.956585, 0.956585, 0.291454, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M189.01909570361025 0 L2121.676700771279 13.335103065597549L2121.676700771279 -13.335103065597549z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 247.735, 0);animation-play-state:paused;animation-delay:-0.338714s" ></path>
+
+/></g>
+<g style="transform:matrix(0.808523, 0.588465, -0.588465, 0.808523, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M141.42555388441528 0 L2905.530213085998 12.777858309843214L2905.530213085998 -12.777858309843214z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 83.3894, 0);animation-play-state:paused;animation-delay:-1.44571s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.863982, -0.503522, 0.503522, -0.863982, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M272.78946128593367 0 L3126.0729082137645 10.327305551063638L3126.0729082137645 -10.327305551063638z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 22.272, 0);animation-play-state:paused;animation-delay:-1.9855s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.877726, -0.479164, 0.479164, -0.877726, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M210.71773614017707 0 L3086.1005318396146 18.95657817817556L3086.1005318396146 -18.95657817817556z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 51.1165, 0);animation-play-state:paused;animation-delay:-0.466721s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.530729, -0.847541, 0.847541, -0.530729, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M340.6858752467672 0 L2658.098540577512 15.855965871349614L2658.098540577512 -15.855965871349614z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 372.99, 0);animation-play-state:paused;animation-delay:-0.757168s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.0482113, -0.998837, 0.998837, -0.0482113, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M134.81136337286898 0 L1676.3351681702438 22.165747828016492L1676.3351681702438 -22.165747828016492z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 116.168, 0);animation-play-state:paused;animation-delay:-1.57563s" ></path>
+
+/></g>
+<g style="transform:matrix(0.605354, -0.795956, 0.795956, 0.605354, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M223.81688144786816 0 L2661.226485269063 20.331385632259398L2661.226485269063 -20.331385632259398z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 65.0957, 0);animation-play-state:paused;animation-delay:-1.95762s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.611072, -0.791575, 0.791575, -0.611072, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M191.4688182291065 0 L2638.0720000690903 24.122861266534052L2638.0720000690903 -24.122861266534052z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 187.692, 0);animation-play-state:paused;animation-delay:-0.622195s" ></path>
+
+/></g>
+<g style="transform:matrix(0.234077, 0.972218, -0.972218, 0.234077, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M203.53664729346656 0 L2043.9331711629943 23.87922552321144L2043.9331711629943 -23.87922552321144z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 130.566, 0);animation-play-state:paused;animation-delay:-0.585004s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.550074, -0.835116, 0.835116, -0.550074, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M338.05212171630797 0 L2686.5713626317392 27.737702682507592L2686.5713626317392 -27.737702682507592z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 35.3894, 0);animation-play-state:paused;animation-delay:-1.02304s" ></path>
+
+/></g>
+<g style="transform:matrix(0.999009, 0.0445008, -0.0445008, 0.999009, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M386.2140695486154 0 L3456.621102333374 11.324407636455614L3456.621102333374 -11.324407636455614z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 28.5389, 0);animation-play-state:paused;animation-delay:-1.98142s" ></path>
+
+/></g>
+<g style="transform:matrix(0.508077, -0.861312, 0.861312, 0.508077, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M316.37547820704964 0 L2597.363590144853 25.96850390314282L2597.363590144853 -25.96850390314282z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 354.033, 0);animation-play-state:paused;animation-delay:-1.23049s" ></path>
+
+/></g>
+<g style="transform:matrix(0.265303, -0.964165, 0.964165, 0.265303, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M168.06683568425112 0 L2058.6745658214763 18.992523797531202L2058.6745658214763 -18.992523797531202z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 213.366, 0);animation-play-state:paused;animation-delay:-1.63891s" ></path>
+
+/></g>
+<g style="transform:matrix(0.804383, 0.594111, -0.594111, 0.804383, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M184.89954726293308 0 L2942.3474312653257 11.00983916485669L2942.3474312653257 -11.00983916485669z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 200.519, 0);animation-play-state:paused;animation-delay:-0.369454s" ></path>
+
+/></g>
+<g style="transform:matrix(0.962548, -0.271111, 0.271111, 0.962548, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M223.7323687928734 0 L3235.5095965094174 29.7914867818854L3235.5095965094174 -29.7914867818854z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 216.038, 0);animation-play-state:paused;animation-delay:-1.64065s" ></path>
+
+/></g>
+<g style="transform:matrix(0.0138508, 0.999904, -0.999904, 0.0138508, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M95.98279284945046 0 L1582.2549418855112 10.35203723924024L1582.2549418855112 -10.35203723924024z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 324.941, 0);animation-play-state:paused;animation-delay:-1.78845s" ></path>
+
+/></g>
+<g style="transform:matrix(0.100008, -0.994987, 0.994987, 0.100008, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M227.96128692557002 0 L1852.7737791188304 18.413614263943142L1852.7737791188304 -18.413614263943142z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 259.43, 0);animation-play-state:paused;animation-delay:-1.6689s" ></path>
+
+/></g>
+<g style="transform:matrix(0.773775, 0.63346, -0.63346, 0.773775, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M358.00067037164104 0 L3066.231374411971 12.846364807121113L3066.231374411971 -12.846364807121113z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 255.936, 0);animation-play-state:paused;animation-delay:-0.666625s" ></path>
+
+/></g>
+<g style="transform:matrix(0.436822, 0.899548, -0.899548, 0.436822, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M210.73682096879025 0 L2377.147059257095 17.063312669929196L2377.147059257095 -17.063312669929196z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 325.904, 0);animation-play-state:paused;animation-delay:-0.212177s" ></path>
+
+/></g>
+<g style="transform:matrix(0.988732, 0.149698, -0.149698, 0.988732, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M369.02555130857456 0 L3422.906211973682 24.967229485737445L3422.906211973682 -24.967229485737445z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 319.129, 0);animation-play-state:paused;animation-delay:-0.292234s" ></path>
+
+/></g>
+<g style="transform:matrix(0.300023, -0.953932, 0.953932, 0.300023, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M105.63279771413288 0 L2052.0695505859467 14.44770811512468L2052.0695505859467 -14.44770811512468z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 181.426, 0);animation-play-state:paused;animation-delay:-0.618116s" ></path>
+
+/></g>
+<g style="transform:matrix(0.330447, -0.943824, 0.943824, 0.330447, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M291.5759624623573 0 L2286.935382446486 29.152459637688963L2286.935382446486 -29.152459637688963z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 105.462, 0);animation-play-state:paused;animation-delay:-1.43134s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.66818, -0.744, 0.744, -0.66818, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M133.96792547316292 0 L2672.4015132056684 18.872320248224L2672.4015132056684 -18.872320248224z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 370.068, 0);animation-play-state:paused;animation-delay:-1.25907s" ></path>
+
+/></g>
+<g style="transform:matrix(0.397624, 0.917549, -0.917549, 0.397624, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M218.0656728033975 0 L2321.4448261172356 16.126458424640862L2321.4448261172356 -16.126458424640862z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 123.218, 0);animation-play-state:paused;animation-delay:-1.58022s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.578233, 0.815872, -0.815872, -0.578233, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M312.660990717422 0 L2706.4595767881983 26.811984185525134L2706.4595767881983 -26.811984185525134z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 228.311, 0);animation-play-state:paused;animation-delay:-0.85136s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.955081, -0.296345, 0.296345, -0.955081, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M183.12175393671885 0 L3182.8918251349455 10.975746181561L3182.8918251349455 -10.975746181561z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 52.1011, 0);animation-play-state:paused;animation-delay:-1.53392s" ></path>
+
+/></g>
+<g style="transform:matrix(0.98652, -0.163641, 0.163641, 0.98652, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M212.2840207842514 0 L3262.6080340921676 20.70203367243846L3262.6080340921676 -20.70203367243846z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 236.931, 0);animation-play-state:paused;animation-delay:-0.845748s" ></path>
+
+/></g>
+<g style="transform:matrix(0.982915, 0.184059, -0.184059, 0.982915, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M287.07289500601445 0 L3331.600393672958 19.296467305051593L3331.600393672958 -19.296467305051593z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 70.0124, 0);animation-play-state:paused;animation-delay:-0.545581s" ></path>
+
+/></g>
+<g style="transform:matrix(0.928708, 0.370811, -0.370811, 0.928708, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M277.1177967145684 0 L3234.480824989385 20.1202604274442L3234.480824989385 -20.1202604274442z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 112.818, 0);animation-play-state:paused;animation-delay:-0.426551s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.926426, -0.376476, 0.376476, -0.926426, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M195.687480039832 0 L3149.381036416253 13.900460226489852L3149.381036416253 -13.900460226489852z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 338.333, 0);animation-play-state:paused;animation-delay:-0.779731s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.951035, -0.309083, 0.309083, -0.951035, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M204.5073134911959 0 L3197.771600526834 14.538895117113482L3197.771600526834 -14.538895117113482z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 301.988, 0);animation-play-state:paused;animation-delay:-0.196607s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.262655, -0.96489, 0.96489, -0.262655, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M186.00202524803402 0 L2072.3516565411232 11.739360979019832L2072.3516565411232 -11.739360979019832z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 355.679, 0);animation-play-state:paused;animation-delay:-0.731562s" ></path>
+
+/></g>
+<g style="transform:matrix(0.945991, -0.324192, 0.324192, 0.945991, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M206.7553219922081 0 L3191.9094248083366 22.638731915710643L3191.9094248083366 -22.638731915710643z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 140.385, 0);animation-play-state:paused;animation-delay:-0.0913967s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.495148, 0.868808, -0.868808, -0.495148, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M159.67311753523722 0 L2419.871817854173 26.328181482410848L2419.871817854173 -26.328181482410848z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 296.832, 0);animation-play-state:paused;animation-delay:-1.80675s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.652551, 0.757745, -0.757745, -0.652551, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M268.92942372169085 0 L2782.2309839351215 21.958087273321055L2782.2309839351215 -21.958087273321055z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 159.437, 0);animation-play-state:paused;animation-delay:-1.6038s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.107466, -0.994209, 0.994209, -0.107466, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M93.50110113269464 0 L1730.3059115167625 28.487196611332006L1730.3059115167625 -28.487196611332006z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 26.093, 0);animation-play-state:paused;animation-delay:-0.0169876s" ></path>
+
+/></g>
+<g style="transform:matrix(0.528803, -0.848744, 0.848744, 0.528803, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M238.07519513717034 0 L2552.3909859578707 25.087672629943395L2552.3909859578707 -25.087672629943395z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 221.851, 0);animation-play-state:paused;animation-delay:-0.144434s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.615287, 0.788303, -0.788303, -0.615287, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M176.14275944819275 0 L2629.5249930162936 23.884105360912656L2629.5249930162936 -23.884105360912656z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 326.907, 0);animation-play-state:paused;animation-delay:-1.78717s" ></path>
+
+/></g>
+<g style="transform:matrix(0.565494, 0.824753, -0.824753, 0.565494, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M302.74445673607573 0 L2676.0581690743757 18.41474662276509L2676.0581690743757 -18.41474662276509z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 81.5309, 0);animation-play-state:paused;animation-delay:-1.94692s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.067487, -0.99772, 0.99772, -0.067487, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M89.93529036084787 0 L1662.4544599580265 15.873043280819799L1662.4544599580265 -15.873043280819799z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 291.18, 0);animation-play-state:paused;animation-delay:-1.81043s" ></path>
+
+/></g>
+<g style="transform:matrix(0.684918, -0.72862, 0.72862, 0.684918, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M256.30155467985037 0 L2821.649822348836 19.048935944813962L2821.649822348836 -19.048935944813962z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 367.768, 0);animation-play-state:paused;animation-delay:-0.260568s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.467962, -0.883749, 0.883749, -0.467962, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M184.38304927364777 0 L2400.8653416700377 11.81334242139361L2400.8653416700377 -11.81334242139361z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 240.206, 0);animation-play-state:paused;animation-delay:-0.156384s" ></path>
+
+/></g>
+<g style="transform:matrix(0.693784, -0.720183, 0.720183, 0.693784, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M308.16678151370513 0 L2887.771087089526 15.315232676464184L2887.771087089526 -15.315232676464184z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 275.273, 0);animation-play-state:paused;animation-delay:-0.679214s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.899656, 0.436599, -0.436599, -0.899656, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M254.1265767727175 0 L3164.7739936145335 29.21424336634125L3164.7739936145335 -29.21424336634125z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 339.379, 0);animation-play-state:paused;animation-delay:-1.27905s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.894264, -0.44754, 0.44754, -0.894264, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M237.27173391889954 0 L3139.2479679603853 13.854024289065556L3139.2479679603853 -13.854024289065556z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 101.384, 0);animation-play-state:paused;animation-delay:-0.0660051s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.541293, 0.840834, -0.840834, -0.541293, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M214.74017848108045 0 L2549.1393292190874 21.74757639345352L2549.1393292190874 -21.74757639345352z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 117.524, 0);animation-play-state:paused;animation-delay:-0.0765133s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.967453, -0.253053, 0.253053, -0.967453, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M374.30546756031214 0 L3393.9691396036656 19.950495440368496L3393.9691396036656 -19.950495440368496z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 117.489, 0);animation-play-state:paused;animation-delay:-1.92351s" ></path>
+
+/></g>
+<g style="transform:matrix(0.195313, 0.980741, -0.980741, 0.195313, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M112.05618709462783 0 L1890.11955271981 17.251954772340863L1890.11955271981 -17.251954772340863z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 284.02, 0);animation-play-state:paused;animation-delay:-0.315091s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.128685, -0.991685, 0.991685, -0.128685, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M112.83106892427075 0 L1783.7568633864762 29.796176953522586L1783.7568633864762 -29.796176953522586z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 16.5427, 0);animation-play-state:paused;animation-delay:-1.01077s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.0833919, 0.996517, -0.996517, -0.0833919, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M148.30255905604608 0 L1746.3966598880206 17.36180410533995L1746.3966598880206 -17.36180410533995z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 175.872, 0);animation-play-state:paused;animation-delay:-1.3855s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.555793, -0.831321, 0.831321, -0.555793, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M240.23066411415726 0 L2597.9460967678415 16.984878724991738L2597.9460967678415 -16.984878724991738z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 250.875, 0);animation-play-state:paused;animation-delay:-1.83667s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.940644, -0.339396, 0.339396, -0.940644, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M445.5501716382832 0 L3422.104932757746 20.106913898752534L3422.104932757746 -20.106913898752534z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 90.7315, 0);animation-play-state:paused;animation-delay:-0.44093s" ></path>
+
+/></g>
+<g style="transform:matrix(0.77137, -0.636387, 0.636387, 0.77137, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M350.7439485050964 0 L3055.107141394893 28.990611703634606L3055.107141394893 -28.990611703634606z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 33.6538, 0);animation-play-state:paused;animation-delay:-1.52191s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.999323, -0.036803, 0.036803, -0.999323, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M332.75115920766274 0 L3403.661802884183 12.19114072679198L3403.661802884183 -12.19114072679198z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 285.598, 0);animation-play-state:paused;animation-delay:-0.685936s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.814565, -0.580073, 0.580073, -0.814565, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M371.83733263084747 0 L3145.657054154531 18.219335444124233L3145.657054154531 -18.219335444124233z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 188.254, 0);animation-play-state:paused;animation-delay:-0.377439s" ></path>
+
+/></g>
+<g style="transform:matrix(0.465347, 0.885128, -0.885128, 0.465347, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M169.04210892747258 0 L2381.3207354297033 27.12834765108375L2381.3207354297033 -27.12834765108375z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 332.152, 0);animation-play-state:paused;animation-delay:-0.216245s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.208321, 0.97806, -0.97806, -0.208321, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M101.37351523837944 0 L1900.3538106574888 26.976374401747513L1900.3538106574888 -26.976374401747513z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 362.097, 0);animation-play-state:paused;animation-delay:-1.26426s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.0242236, 0.999707, -0.999707, -0.0242236, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M122.50871329145644 0 L1625.4602810310123 19.402993694416043L1625.4602810310123 -19.402993694416043z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 333.77, 0);animation-play-state:paused;animation-delay:-0.282702s" ></path>
+
+/></g>
+<g style="transform:matrix(0.688201, -0.72552, 0.72552, 0.688201, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M239.04589434023018 0 L2809.6728003721464 26.426671469846244L2809.6728003721464 -26.426671469846244z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 314.189, 0);animation-play-state:paused;animation-delay:-1.29545s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.425933, 0.904755, -0.904755, -0.425933, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M272.9639577913194 0 L2421.8648147835406 23.542185365987063L2421.8648147835406 -23.542185365987063z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 353.434, 0);animation-play-state:paused;animation-delay:-1.7699s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.0244949, -0.9997, 0.9997, -0.0244949, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M140.66980913576933 0 L1644.0576316988129 13.459515541367853L1644.0576316988129 -13.459515541367853z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 188.544, 0);animation-play-state:paused;animation-delay:-1.12275s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.99707, 0.0765007, -0.0765007, -0.99707, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M170.1060930133395 0 L3237.3938950536 19.654362299883076L3237.3938950536 -19.654362299883076z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 26.6481, 0);animation-play-state:paused;animation-delay:-0.982651s" ></path>
+
+/></g>
+<g style="transform:matrix(0.996973, -0.0777524, 0.0777524, 0.996973, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M299.21086336162057 0 L3366.3429620647294 15.691306122526388L3366.3429620647294 -15.691306122526388z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 214.564, 0);animation-play-state:paused;animation-delay:-1.86031s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.969546, 0.244908, -0.244908, -0.969546, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M214.02758743174323 0 L3237.057951431342 19.207127588317935L3237.057951431342 -19.207127588317935z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 301.225, 0);animation-play-state:paused;animation-delay:-1.69611s" ></path>
+
+/></g>
+<g style="transform:matrix(0.77844, -0.627719, 0.627719, 0.77844, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M377.03437034744934 0 L3092.7661864772845 25.89359712090275L3092.7661864772845 -25.89359712090275z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 322.764, 0);animation-play-state:paused;animation-delay:-0.789867s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.77539, 0.631483, -0.631483, -0.77539, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M191.39285402105622 0 L2902.2199479692063 10.991276168838105L2902.2199479692063 -10.991276168838105z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 303.649, 0);animation-play-state:paused;animation-delay:-0.302312s" ></path>
+
+/></g>
+<g style="transform:matrix(0.500286, 0.86586, -0.86586, 0.500286, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M184.38548556996955 0 L2452.844810269761 10.927013023156924L2452.844810269761 -10.927013023156924z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 7.6032, 0);animation-play-state:paused;animation-delay:-1.99505s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.379681, 0.925118, -0.925118, -0.379681, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M175.8146809994548 0 L2250.3411951349412 11.832727878469317L2250.3411951349412 -11.832727878469317z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 147.843, 0);animation-play-state:paused;animation-delay:-0.903748s" ></path>
+
+/></g>
+<g style="transform:matrix(0.965118, -0.261814, 0.261814, 0.965118, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M215.85859913963372 0 L3231.7688956314696 27.208156867907253L3231.7688956314696 -27.208156867907253z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 99.5113, 0);animation-play-state:paused;animation-delay:-0.435214s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.936692, 0.350153, -0.350153, -0.936692, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M394.3117413401546 0 L3364.5131244501267 21.404841423987584L3364.5131244501267 -21.404841423987584z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 12.4723, 0);animation-play-state:paused;animation-delay:-1.49188s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.21045, 0.977605, -0.977605, -0.21045, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M220.1233331914766 0 L2022.5267554631516 18.151761519903438L2022.5267554631516 -18.151761519903438z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 267.164, 0);animation-play-state:paused;animation-delay:-0.826065s" ></path>
+
+/></g>
+<g style="transform:matrix(0.554943, 0.831888, -0.831888, 0.554943, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M132.26894010540784 0 L2488.616989747289 27.922431853244596L2488.616989747289 -27.922431853244596z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 269.86, 0);animation-play-state:paused;animation-delay:-1.67569s" ></path>
+
+/></g>
+<g style="transform:matrix(0.264601, -0.964358, 0.964358, 0.264601, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M195.87121901782567 0 L2085.3497272943346 23.709773839962125L2085.3497272943346 -23.709773839962125z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 326.415, 0);animation-play-state:paused;animation-delay:-0.21251s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.989942, -0.141472, 0.141472, -0.989942, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M307.05342220388087 0 L3362.8806230290265 21.388834912398558L3362.8806230290265 -21.388834912398558z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 270.906, 0);animation-play-state:paused;animation-delay:-0.176371s" ></path>
+
+/></g>
+<g style="transform:matrix(0.49684, -0.867842, 0.867842, 0.49684, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M300.9288053696196 0 L2563.8473006900226 10.160074264736503L2563.8473006900226 -10.160074264736503z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 77.8445, 0);animation-play-state:paused;animation-delay:-1.94932s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.741093, -0.671402, 0.671402, -0.741093, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M350.0116623384399 0 L3005.689090584944 16.66399264561393L3005.689090584944 -16.66399264561393z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 303.612, 0);animation-play-state:paused;animation-delay:-0.197664s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.934122, 0.356955, -0.356955, -0.934122, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M407.15658730771503 0 L3373.224279420696 17.999221758548888L3373.224279420696 -17.999221758548888z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 143.842, 0);animation-play-state:paused;animation-delay:-0.906353s" ></path>
+
+/></g>
+<g style="transform:matrix(0.904645, -0.426165, 0.426165, 0.904645, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M158.5515586249877 0 L3077.2212005174 28.294425151911522L3077.2212005174 -28.294425151911522z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 305.828, 0);animation-play-state:paused;animation-delay:-0.300893s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.439233, -0.898373, 0.898373, -0.439233, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M188.3256274777738 0 L2358.6118482014017 27.322853048380445L2358.6118482014017 -27.322853048380445z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 59.1514, 0);animation-play-state:paused;animation-delay:-1.53851s" ></path>
+
+/></g>
+<g style="transform:matrix(0.393301, 0.91941, -0.91941, 0.393301, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M306.7943555404141 0 L2403.2228982786423 18.76491942519516L2403.2228982786423 -18.76491942519516z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 99.9475, 0);animation-play-state:paused;animation-delay:-1.56507s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.964442, -0.264293, 0.264293, -0.964442, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M178.13559766180703 0 L3192.95904230689 23.652751683431177L3192.95904230689 -23.652751683431177z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 159.775, 0);animation-play-state:paused;animation-delay:-1.60402s" ></path>
+
+/></g>
+<g style="transform:matrix(0.986614, 0.163072, -0.163072, 0.986614, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M312.6524187088104 0 L3363.1279009155223 23.377070836318765L3363.1279009155223 -23.377070836318765z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 245.868, 0);animation-play-state:paused;animation-delay:-1.66007s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.945812, 0.324715, -0.324715, -0.945812, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M398.4604046067543 0 L3383.3261448911244 12.049013944440334L3383.3261448911244 -12.049013944440334z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 78.3514, 0);animation-play-state:paused;animation-delay:-1.55101s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.792852, 0.609414, -0.609414, -0.792852, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M360.693310870455 0 L3099.599628295946 15.638849700335955L3099.599628295946 -15.638849700335955z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 24.5038, 0);animation-play-state:paused;animation-delay:-0.984047s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.884176, 0.467154, -0.467154, -0.884176, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M170.75874120681462 0 L3056.513546704476 12.993386658819158L3056.513546704476 -12.993386658819158z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 370.363, 0);animation-play-state:paused;animation-delay:-0.741122s" ></path>
+
+/></g>
+<g style="transform:matrix(0.135634, 0.990759, -0.990759, 0.135634, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M152.22019682793422 0 L1834.3189632453568 13.790446346175194L1834.3189632453568 -13.790446346175194z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 298.998, 0);animation-play-state:paused;animation-delay:-1.19466s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.111253, -0.993792, 0.993792, -0.111253, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M225.53377732623903 0 L1868.428408860753 27.172424195639703L1868.428408860753 -27.172424195639703z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 244.055, 0);animation-play-state:paused;animation-delay:-1.15889s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.933076, 0.359679, -0.359679, -0.933076, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M151.27668864132957 0 L3115.6632348847947 25.68044598287422L3115.6632348847947 -25.68044598287422z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 172.639, 0);animation-play-state:paused;animation-delay:-0.387605s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.981436, 0.19179, -0.19179, -0.981436, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M396.5190857423561 0 L3438.6682126771375 29.076154843322332L3438.6682126771375 -29.076154843322332z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 167.054, 0);animation-play-state:paused;animation-delay:-0.391241s" ></path>
+
+/></g>
+<g style="transform:matrix(0.156716, -0.987644, 0.987644, 0.156716, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M112.13730553644255 0 L1828.1367779562656 18.270193421937737L1828.1367779562656 -18.270193421937737z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 179.672, 0);animation-play-state:paused;animation-delay:-0.883026s" ></path>
+
+/></g>
+<g style="transform:matrix(0.903316, 0.428977, -0.428977, 0.903316, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M294.43255777070226 0 L3210.9639065144547 10.208128865681774L3210.9639065144547 -10.208128865681774z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 214.567, 0);animation-play-state:paused;animation-delay:-0.860308s" ></path>
+
+/></g>
+<g style="transform:matrix(0.312651, 0.949868, -0.949868, 0.312651, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M177.8916636758612 0 L2144.6342598915207 13.879905689388252L2144.6342598915207 -13.879905689388252z" fill="#1c2c68" style="transform:matrix(1, 0, 0, 1, 278.62, 0);animation-play-state:paused;animation-delay:-0.818607s" ></path>
+
+/></g>
+<g style="transform:matrix(-0.153887, 0.988088, -0.988088, -0.153887, 0, 0);animation-play-state:paused" ><path class="ld ld-speed-dash" d="M134.0846169210118 0 L1845.5354569263254 29.602610955002547L1845.5354569263254 -29.602610955002547z" fill="#8dba19" style="transform:matrix(1, 0, 0, 1, 352.02, 0);animation-play-state:paused;animation-delay:-1.77082s" ></path>
+
+/></g></g></g></g></svg>
