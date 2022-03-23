@@ -331,12 +331,15 @@ footer li {
 /**************************nos produits*******************************/
 
 #titre-produit {
-margin: 4rem;
-text-align: center;font-size: xx-large;
+margin: 6rem;
+text-align: center;
+font-size: xx-large;
 } 
 #produit {
+  margin-top: 10rem;
     display: block;
     align-items: center;
+    justify-content: center;
   }
   
   #produit p {
