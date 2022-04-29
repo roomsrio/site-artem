@@ -297,10 +297,11 @@ a {
 
 #entreprise {
   background: white; /*url(./bg2.svg); */
-  height: 1430px;
+  height: 1000px;
   font-size: var(--font-size);
   font-family: "poppins", sans-serif;
   cursor: none;
+  overflow-x: hidden;
 }
 
 #notre-entreprise {
