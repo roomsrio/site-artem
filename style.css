@@ -33,16 +33,6 @@ header {
   transform: rotate(45deg) scale(0.7);
   -webkit-transform: rotate(45deg) scale(0.7);
   -moz-transform: rotate(45deg) scale(0.7);
-  animation: rotate-center 5s ease-in-out infinite both;
-}
-
-@keyframes rotate-center {
-  0% {
-    transform: rotate(0);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
 }
 
 .debut {
@@ -107,6 +97,7 @@ body {
   font-family: "poppins", sans-serif;
   background: url(./bg4.svg) no-repeat center/cover;
   cursor: none;
+  height: 100vh;
 }
 
 /* Navbar */
@@ -269,14 +260,14 @@ body {
   mix-blend-mode: difference;
 }
 #grandrond {
-  background: #7644996a;
+  background: #fbd3896a;
   height: 200px;
   width: 200px;
   border-radius: 200px;
   transition: 0.2s ease-out;
 }
 #moyenrond {
-  background: #6318916f;
+  background: #4936456f;
   height: 120px;
   width: 120px;
   border-radius: 120px;
@@ -292,7 +283,23 @@ a {
   z-index: 1000;
   position: relative;
 }
+/*********************bg pluie************************/
+.trait {
+  position: absolute;
+  z-index: -2;
+  top: -250px;
+  width: 2px;
+  background: linear-gradient(180deg, #8dba19 20%, #1c2c68 100%);
+  opacity: 0.5;
+  animation: anim 10s ease-out;
+}
 
+@keyframes anim {
+  to {
+    top: 1680px;
+    opacity: 1;
+  }
+}
 /********************logo slogan********************* */
 
 #slogan {
@@ -319,42 +326,6 @@ a {
   margin: 1rem 0 0 3rem;
   color: #1c2c68;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
-
-/**************************footer**************************************/
-
-footer {
-  background: url(./bg\ footer.svg) center/cover;
-  color: #f0f0f0;
-  font-weight: bolder;
-  width: 100%;
-  bottom: 0;
-  justify-content: center;
-  display: flex;
-  font-size: 15px;
-  box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.66);
-  -webkit-box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.66);
-  -moz-box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.66);
-}
-
-#tel {
-  text-align: start;
-  margin: 1rem 10rem 0rem 0;
-}
-
-#footer-lien {
-  margin: 1rem 0 0.5rem 10rem;
-  display: block;
-  color: rgb(255, 255, 255);
-  text-align: end;
-}
-
-footer a {
-  color: #f0f0f0;
-}
-
-footer li {
-  padding: 0.1rem;
 }
 
 /**************************accueil choix**************************************/
@@ -411,45 +382,39 @@ footer li {
   }
 }
 
-/**************************notre entreprise*******************************/
+/**************************footer**************************************/
 
-#entreprise {
-  background: url(./bg2.svg);
-}
-
-#notre-entreprise {
-  height: 200vh;
+footer {
+  height: 150px;
+  background: url(./bg\ footer.svg) center/cover;
+  color: #f0f0f0;
+  font-weight: bolder;
+  width: 100%;
+  bottom: 0;
   justify-content: center;
-}
-
-#notre-entreprise h2 {
-  width: 1120px;
-  margin: auto;
-  padding: 3rem 0 3rem 0;
-  text-align: center;
-  color: #1c2c68;
-  font-size: xx-large;
-  background: #f5f5f5f5;
-  z-index: -1;
-  position: relative;
-}
-
-#notre-entreprise img {
-  height: 420px;
-}
-.presentation {
-  background: #f5f5f5f5;
-  width: 1120px;
-  margin: auto;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  font-size: 15px;
+  box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.66);
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.66);
+  -moz-box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.66);
 }
 
-.presentation p {
-  color: #1c2c68;
-  width: 560px;
-  font-size: large;
-  text-align: center;
-  font-weight: bold;
+#tel {
+  text-align: start;
+  margin: 1rem 10rem 0rem 0;
+}
+
+#footer-lien {
+  margin: 1rem 0 0.5rem 10rem;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: end;
+}
+
+footer a {
+  color: #f0f0f0;
+}
+
+footer li {
+  padding: 0.1rem;
 }
