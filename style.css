@@ -106,6 +106,7 @@ body {
   font-size: var(--font-size);
   font-family: "poppins", sans-serif;
   background: url(./bg4.svg) no-repeat center/cover;
+  cursor: none;
 }
 
 /* Navbar */
@@ -133,7 +134,6 @@ body {
     background-position: 0% 50%;
   }
 }
-
 
 .navbar_logo {
   font-size: larger;
@@ -261,6 +261,38 @@ body {
     width: 100%;
   }
 }
+
+/*****************************effet souris*************/
+.rond {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: difference;
+}
+#grandrond {
+  background: #7644996a;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+  transition: 0.2s ease-out;
+}
+#moyenrond {
+  background: #6318916f;
+  height: 120px;
+  width: 120px;
+  border-radius: 120px;
+  transition: 0.3s ease-out;
+}
+#petitrond {
+  background: #8dba19;
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+}
+a {
+  z-index: 1000;
+  position: relative;
+}
+
 /********************logo slogan********************* */
 
 #slogan {
@@ -272,7 +304,6 @@ body {
   position: relative;
   z-index: -1;
   margin: 4rem 0 0 5rem;
-  
 }
 
 #titre h1 {
@@ -287,10 +318,8 @@ body {
   font-weight: 800;
   margin: 1rem 0 0 3rem;
   color: #1c2c68;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-
-
 
 /**************************footer**************************************/
 
@@ -315,7 +344,7 @@ footer {
 
 #footer-lien {
   margin: 1rem 0 0.5rem 10rem;
-  display: block ;
+  display: block;
   color: rgb(255, 255, 255);
   text-align: end;
 }
@@ -335,7 +364,7 @@ footer li {
   width: 100%;
   justify-content: center;
 }
-.choix img{
+.choix img {
   height: 200px;
   border-radius: 15px 15px 0px 0px;
 }
@@ -349,8 +378,8 @@ footer li {
   align-items: center;
   text-align: center;
   border-radius: 15px;
-  
-  box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+
+  box-shadow: 10px 10px 19px 0px rgba(0, 0, 0, 0.75);
 }
 .choix a {
   text-decoration: none;
@@ -382,7 +411,6 @@ footer li {
   }
 }
 
-
 /**************************notre entreprise*******************************/
 
 #entreprise {
@@ -390,8 +418,8 @@ footer li {
 }
 
 #notre-entreprise {
-height: 200vh;
-justify-content: center;
+  height: 200vh;
+  justify-content: center;
 }
 
 #notre-entreprise h2 {
@@ -410,7 +438,6 @@ justify-content: center;
   height: 420px;
 }
 .presentation {
-  
   background: #f5f5f5f5;
   width: 1120px;
   margin: auto;
@@ -426,4 +453,3 @@ justify-content: center;
   text-align: center;
   font-weight: bold;
 }
-

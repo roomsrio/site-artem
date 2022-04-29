@@ -119,7 +119,6 @@ body {
   }
 }
 
-
 .navbar_logo {
   font-size: larger;
 }
@@ -246,6 +245,37 @@ body {
     width: 100%;
   }
 }
+
+/*****************************effet souris*************/
+.rond {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+#grandrond {
+  background: rgba(101, 94, 94, 0.414);
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+  transition: 0.2s ease-out;
+}
+#moyenrond {
+  background: rgba(19, 19, 16, 0.323);
+  height: 120px;
+  width: 120px;
+  border-radius: 120px;
+  transition: 0.3s ease-out;
+}
+#petitrond {
+  background: #8dba19;
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+}
+a {
+  z-index: 1000;
+  position: relative;
+}
+
 /********************logo slogan********************* */
 
 #slogan {
@@ -257,7 +287,7 @@ body {
   position: relative;
   z-index: -1;
   margin: 4rem 0 0 5rem;
-  animation: kenburns-top 3s ease-out infinite alternate-reverse ;
+  animation: kenburns-top 3s ease-out infinite alternate-reverse;
 }
 
 @keyframes kenburns-top {
@@ -271,7 +301,6 @@ body {
   }
 }
 
-
 h1 {
   margin: 8rem 0 0 -2rem;
   color: #8dba19;
@@ -284,10 +313,8 @@ h2 {
   font-weight: 800;
   margin: 1rem 0 0 3rem;
   color: #1c2c68;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-
-
 
 /**************************footer**************************************/
 
@@ -313,7 +340,7 @@ footer {
 
 #footer-lien {
   margin: 1rem 0 0.5rem 10rem;
-  display: block ;
+  display: block;
   color: rgb(255, 255, 255);
   text-align: end;
 }
@@ -331,195 +358,188 @@ footer li {
 /**************************nos produits*******************************/
 
 #titre-produit {
-margin: 6rem;
-text-align: center;
-font-size: xx-large;
-} 
+  margin: 6rem;
+  text-align: center;
+  font-size: xx-large;
+}
 #produit {
   margin-top: 10rem;
-    display: block;
-    align-items: center;
-    justify-content: center;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+#produit p {
+  font-size: larger;
+  font-weight: bold;
+  text-align: center;
+}
+
+.caroussel {
+  position: relative;
+  overflow: hidden;
+  width: 200px;
+  height: 150px;
+  background: rgb(255, 255, 255);
+  border-radius: 0px 15px 15px 0px;
+}
+
+#gene {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 3rem 0 3rem;
+}
+.choix {
+  display: flex;
+  font-size: larger;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 15px;
+  background: #1c2c68;
+  color: #f0f0f0;
+  font-weight: bolder;
+  box-shadow: 10px 10px 19px 0px rgba(0, 0, 0, 0.75);
+}
+
+.choix:hover {
+  animation: rotate-90-cw 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  border-top: 0px;
+  background: #8cba19b7;
+}
+
+@keyframes rotate-90-cw {
+  0% {
+    transform: rotate(0);
   }
-  
-  #produit p {
-    font-size: larger;
-    font-weight: bold;
-    text-align: center;
+  100% {
+    transform: rotate(10deg);
   }
-  
-  .caroussel {
-    position: relative;
-    overflow: hidden;
-    width: 200px;
-    height: 150px;
-    background: rgb(255, 255, 255);
-    border-radius: 0px 15px 15px 0px;  
+}
+
+h4 {
+  width: 200px;
+  color: rgb(255, 255, 255);
+}
+.images {
+  display: block;
+  animation-duration: 50s;
+  animation-name: mesimages;
+  animation-iteration-count: infinite;
+  font-size: 0;
+}
+
+@keyframes mesimages {
+  0% {
+    transform: translatey(0);
   }
-  
-  #gene {
-    display: flex;
-    justify-content: space-between;
-    margin: 0 3rem 0 3rem;
+  5% {
+    transform: translateY(-150px);
   }
-  .choix {
-    display: flex;
-    font-size: larger;
-    align-items: center;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 15px;
-    background: #1c2c68;
-    color: #f0f0f0;
-    font-weight: bolder;
-    box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+  10% {
+    transform: translatey(-300px);
   }
-  
-  .choix:hover {
-	  animation: rotate-90-cw 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-    border-top: 0px;
-    background: #8cba19b7;
+  15% {
+    transform: translatey(-450px);
   }
-  
-  
-  @keyframes rotate-90-cw {
-    0% {
-      transform: rotate(0);
-    }
-    100% {
-      transform: rotate(10deg);
-    }
+  20% {
+    transform: translatey(-600px);
   }
-  
-  
-  
-  
-  
-  h4 {
-    width: 200px;
-    color: rgb(255, 255, 255);
+  25% {
+    transform: translatey(-750px);
   }
-  .images {
-    display: block;
-    animation-duration: 50s;
-    animation-name: mesimages;
-    animation-iteration-count: infinite;
-    font-size: 0;
+  30% {
+    transform: translatey(-900px);
   }
-  
-  @keyframes mesimages {
-    0% {
-      transform: translatey(0);
-    }
-    5% {
-      transform: translateY(-150px);
-    }
-    10% {
-      transform: translatey(-300px);
-    }
-    15% {
-      transform: translatey(-450px);
-    }
-    20% {
-      transform: translatey(-600px);
-    }
-    25% {
-      transform: translatey(-750px);
-    }
-    30% {
-      transform: translatey(-900px);
-    }
-    35% {
-      transform: translatey(-1050px);
-    }
-    40% {
-      transform: translatey(-1200px);
-    }
-    45% {
-      transform: translatey(-1350px);
-    }
-    50% {
-      transform: translatey(-1500px);
-    }
-    55% {
-      transform: translatey(-1650px);
-    }
-    60% {
-      transform: translatey(-1800px);
-    }
-    65% {
-      transform: translatey(-1950px);
-    }
-    72% {
-      transform: translatey(-2100px);
-    }
-    80% {
-      transform: translatey(-2250px);
-    }
-    87% {
-      transform: translatey(-2400px);
-    }
-    92% {
-      transform: translatey(-2550px);
-    }
-    100% {
-      transform: translatey(-2700px);
-    }
-  
+  35% {
+    transform: translatey(-1050px);
   }
-  
-  .images1 {
-    display: flex;
-    animation-duration: 20s;
-    animation-name: mesimages1;
-    animation-iteration-count: infinite;
-    font-size: 0;
+  40% {
+    transform: translatey(-1200px);
   }
-  
-  @keyframes mesimages1 {
-    0% {
-      transform: translatex(0);
-    }
-    33% {
-      transform: translatex(-200px);
-    }
-    66% {
-      transform: translatex(-400px);
-    }
-    100% {
-      transform: translatex(-600px);
-    }
+  45% {
+    transform: translatey(-1350px);
   }
-  
-  .images2 {
-    display: block;
-    animation-duration: 20s;
-    animation-name: mesimages2;
-    animation-iteration-count: infinite;
-    font-size: 0;
+  50% {
+    transform: translatey(-1500px);
   }
-  
-  @keyframes mesimages2 {
-    0% {
-      transform: translatey(0);
-    }
-    17% {
-      transform: translateY(-150px);
-    }
-    34% {
-      transform: translatey(-300px);
-    }
-    51% {
-      transform: translatey(-450px);
-    }
-    68% {
-      transform: translatey(-600px);
-    }
-    85% {
-      transform: translatey(-750px);
-    }
-    100% {
-      transform: translatey(-900px);
-    }
-  
+  55% {
+    transform: translatey(-1650px);
   }
+  60% {
+    transform: translatey(-1800px);
+  }
+  65% {
+    transform: translatey(-1950px);
+  }
+  72% {
+    transform: translatey(-2100px);
+  }
+  80% {
+    transform: translatey(-2250px);
+  }
+  87% {
+    transform: translatey(-2400px);
+  }
+  92% {
+    transform: translatey(-2550px);
+  }
+  100% {
+    transform: translatey(-2700px);
+  }
+}
+
+.images1 {
+  display: flex;
+  animation-duration: 20s;
+  animation-name: mesimages1;
+  animation-iteration-count: infinite;
+  font-size: 0;
+}
+
+@keyframes mesimages1 {
+  0% {
+    transform: translatex(0);
+  }
+  33% {
+    transform: translatex(-200px);
+  }
+  66% {
+    transform: translatex(-400px);
+  }
+  100% {
+    transform: translatex(-600px);
+  }
+}
+
+.images2 {
+  display: block;
+  animation-duration: 20s;
+  animation-name: mesimages2;
+  animation-iteration-count: infinite;
+  font-size: 0;
+}
+
+@keyframes mesimages2 {
+  0% {
+    transform: translatey(0);
+  }
+  17% {
+    transform: translateY(-150px);
+  }
+  34% {
+    transform: translatey(-300px);
+  }
+  51% {
+    transform: translatey(-450px);
+  }
+  68% {
+    transform: translatey(-600px);
+  }
+  85% {
+    transform: translatey(-750px);
+  }
+  100% {
+    transform: translatey(-900px);
+  }
+}
